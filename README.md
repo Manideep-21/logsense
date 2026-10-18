@@ -33,7 +33,3 @@ Spark and Hive never talk to each other directly. Spark writes Parquet files int
 | Interface | Streamlit |
 
 Everything runs in Docker on a laptop (WSL2, 11 GB of RAM for Linux).
-
-## Report
-
-The full project report is in [LogSense_Report.docx](LogSense_Report.docx).
